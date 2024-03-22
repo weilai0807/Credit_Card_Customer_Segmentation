@@ -1,4 +1,4 @@
-# Credit Card Customer Segmentation using Unsupervised Machine Learning
+# Credit Card Customer Segmentation using Unsupervised Machine Learning (Work in Progress)
 
 ## Business Understanding
 
